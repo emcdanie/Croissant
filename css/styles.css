@@ -1,0 +1,26 @@
+body {
+  padding-top: 50px;
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer {
+  margin: 0 10px;
+  color: black;
+}
